@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   portal-backend:
   - apiVersion: v2
+    appVersion: 20200625.15.33-loadtest
+    created: "2020-06-25T15:37:02.770574978Z"
+    description: A Helm chart for Portal Backend
+    digest: 807bb071dfea577800276162d8fbf9bdadbb86c4f64c24d0c33e0795d30d89c2
+    name: portal-backend
+    type: application
+    urls:
+    - charts/portal-backend-1.1.20.tgz
+    version: 1.1.20
+  - apiVersion: v2
     appVersion: 20200623.13.21-loadtest
-    created: "2020-06-23T13:24:47.760165563Z"
+    created: "2020-06-25T15:37:02.770088278Z"
     description: A Helm chart for Portal Backend
     digest: 1deb9383b62230ec897238ba707addf952cd238135e7e2868bf2695e60ee9f0f
     name: portal-backend
@@ -13,7 +23,7 @@ entries:
     version: 1.1.19
   - apiVersion: v2
     appVersion: 20200623.13.05-loadtest
-    created: "2020-06-23T13:24:47.75951906Z"
+    created: "2020-06-25T15:37:02.769369677Z"
     description: A Helm chart for Portal Backend
     digest: e13a71d20f67abcf73c956eb3c6a333cf9bd88857a9cfb4a253c980f5b7730a8
     name: portal-backend
@@ -23,7 +33,7 @@ entries:
     version: 1.1.18
   - apiVersion: v2
     appVersion: 20200622.17.43-loadtest
-    created: "2020-06-23T13:24:47.758884057Z"
+    created: "2020-06-25T15:37:02.768682876Z"
     description: A Helm chart for Portal Backend
     digest: e39e830f605b6f0d9d853feea50e46c356994a30e2fb4862ea0697c6230627a5
     name: portal-backend
@@ -33,7 +43,7 @@ entries:
     version: 1.1.17
   - apiVersion: v2
     appVersion: 20200622.16.55-loadtest
-    created: "2020-06-23T13:24:47.758213953Z"
+    created: "2020-06-25T15:37:02.768256575Z"
     description: A Helm chart for Portal Backend
     digest: dd0e65907a56e0f86956f28efddad3e2ef601880ee116eb477abf996be2953f5
     name: portal-backend
@@ -41,4 +51,4 @@ entries:
     urls:
     - charts/portal-backend-1.1.15.tgz
     version: 1.1.15
-generated: "2020-06-23T13:24:47.757090848Z"
+generated: "2020-06-25T15:37:02.767705375Z"
